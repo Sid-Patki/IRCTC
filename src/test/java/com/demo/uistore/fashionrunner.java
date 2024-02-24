@@ -15,7 +15,7 @@ public class fashionrunner extends Baserunner {
 	public void fashion_test_1() throws InterruptedException, AWTException {
 		
 		log.info("Test Case Started");
-		execution.test=execution.extent.createTest("Log validation");
+		execution.IRCTGIT=execution.extent.createTest("Log validation");
 		fashionpage fashion = new fashionpage(driver);
 		fashion.Backpack();
 		Thread.sleep(2000);
@@ -24,7 +24,7 @@ public class fashionrunner extends Baserunner {
 	@Test
 	public void fashion_test_3() throws InterruptedException, AWTException {
 		log.info("Test Case Started");
-		execution.test=execution.extent.createTest("Log validation");
+		execution.IRCTGIT=execution.extent.createTest("Log validation");
 		fashionpage fashion = new fashionpage(driver);
 		fashion.Backpack();
 		Thread.sleep(2000);
@@ -35,7 +35,7 @@ public class fashionrunner extends Baserunner {
 	@Test
 	public void Username_test_2() throws InterruptedException {
 		log.info("Test Case Started");
-		execution.test=execution.extent.createTest("Log validation");
+		execution.IRCTGIT=execution.extent.createTest("Log validation");
 		Thread.sleep(2000);
 		execution.signinlink();
 		execution.enterusername();
