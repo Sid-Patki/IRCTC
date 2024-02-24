@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.demo.runner.BaseRunner">
+        <methods>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.demo.runner.BaseRunner -->
+      <class name="com.demo.runner.Display_TrainTests">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="topsgrid"/>
+          <include name="listoftrain"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- com.demo.runner.Display_TrainTests -->
+      <class name="com.demo.runner.Train_Bookingtests">
+        <methods>
+          <include name="tearDownMethod"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="before"/>
+          <include name="searchTrain"/>
+        </methods>
+      </class> <!-- com.demo.runner.Train_Bookingtests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suiteasd">
+  <test thread-count="5" name="Testasd">
+    <classes>
+      <class name="com.demo.runner.Train_Bookingtests"/>
+      <class name="com.demo.runner.Display_TrainTests"/>
+    </classes>
+  </test> <!-- Testasd -->
+</suite> <!-- Suiteasd -->

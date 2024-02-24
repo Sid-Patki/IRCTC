@@ -1,0 +1,320 @@
+[INFO ] 2023-10-13 19:32:58.773 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-13 19:33:14.032 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-13 19:33:14.074 [main] BaseRunner - Success
+[INFO ] 2023-10-13 19:37:44.002 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-13 19:37:55.838 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-13 19:37:55.861 [main] BaseRunner - Success
+[INFO ] 2023-10-13 19:38:55.508 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-13 19:38:57.716 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-13 19:39:18.284 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-13 19:39:18.311 [main] BaseRunner - Success
+[INFO ] 2023-10-13 19:39:19.662 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-13 19:39:19.688 [main] BaseRunner - Success
+[INFO ] 2023-10-15 11:46:21.608 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 11:46:33.186 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 11:46:33.224 [main] BaseRunner - Success
+[INFO ] 2023-10-15 19:52:50.554 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 19:53:12.938 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 19:53:12.952 [main] BaseRunner - Test case started
+[INFO ] 2023-10-15 20:20:11.712 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 20:20:22.291 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 20:20:22.302 [main] BaseRunner - Test case started
+[INFO ] 2023-10-15 20:21:49.751 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 20:22:02.064 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 20:22:02.079 [main] BaseRunner - Test case started
+[INFO ] 2023-10-15 20:33:00.482 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 20:33:13.029 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 20:33:13.044 [main] BaseRunner - Test case started
+[INFO ] 2023-10-15 21:16:48.992 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 21:17:07.951 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 21:17:07.978 [main] BaseRunner - Test case started
+[INFO ] 2023-10-15 21:19:11.640 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-15 21:19:49.431 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-15 21:19:49.457 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:36:02.266 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:36:19.500 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:36:19.539 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:37:08.066 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:37:21.243 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:37:21.267 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:38:22.911 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:38:25.652 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:38:41.602 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:38:41.638 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:38:51.841 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:38:51.863 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:50:02.516 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:50:17.111 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:50:17.131 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 12:51:09.156 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 12:51:20.697 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 12:51:20.729 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:40:35.449 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:40:51.307 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:40:51.322 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:42:04.337 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:42:24.936 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:42:24.957 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:43:24.293 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:44:51.116 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:44:51.136 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:47:53.035 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:48:13.956 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:48:13.979 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:48:14.948 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 17:48:18.621 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 17:50:56.610 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:51:14.384 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:51:14.415 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:51:16.490 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 17:51:20.103 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 17:54:59.385 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:55:21.110 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:55:21.131 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:55:23.795 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 17:55:27.598 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 17:59:36.134 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 17:59:51.758 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 17:59:51.783 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 17:59:52.390 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 17:59:56.069 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:02:15.518 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:02:35.956 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:02:35.979 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:02:38.618 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:02:42.320 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:03:48.911 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:04:05.221 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:04:05.244 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:04:07.228 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:04:10.840 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:05:39.159 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:05:55.978 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:05:55.990 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:05:58.469 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:06:02.206 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:07:27.856 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:08:05.281 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:08:05.295 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:08:07.413 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:08:10.979 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:09:12.167 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:09:23.024 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:09:23.046 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:09:25.161 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:09:28.976 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:13:52.168 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:14:09.045 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:14:09.062 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:14:09.982 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:14:13.791 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:15:18.122 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:15:33.780 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:15:33.795 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:15:34.608 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:15:38.364 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:17:50.208 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:18:07.545 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:18:07.575 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:18:08.554 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:18:12.377 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:21:06.053 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:21:24.382 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:21:24.413 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:21:25.908 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:21:29.665 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:26:46.385 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:27:06.665 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:27:06.680 [main] BaseRunner - Success
+[INFO ] 2023-10-16 18:27:23.708 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:27:23.719 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:27:25.346 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:27:29.113 [main] BaseRunner - slt to city
+[INFO ] 2023-10-16 18:28:54.816 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-16 18:29:18.059 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-16 18:29:18.080 [main] BaseRunner - Test case started
+[INFO ] 2023-10-16 18:29:21.811 [main] BaseRunner - slt from city
+[INFO ] 2023-10-16 18:29:25.574 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 12:54:11.255 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 12:54:27.278 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 12:54:27.298 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 13:03:34.722 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 13:03:50.011 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 13:03:50.030 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 13:03:53.238 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 13:03:57.301 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 13:05:00.325 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 13:05:23.954 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 13:05:23.974 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 13:05:26.299 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 13:05:30.221 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 13:06:53.828 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 13:07:08.976 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 13:07:09.045 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 13:07:10.752 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 13:07:14.695 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 13:10:45.000 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 13:10:56.429 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 13:10:56.505 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 13:11:00.275 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 13:11:04.340 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 14:18:14.787 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:19:16.170 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:19:16.203 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 14:20:07.015 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:20:30.761 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:20:30.775 [main] BaseRunner - Success
+[INFO ] 2023-10-17 14:20:59.415 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:20:59.418 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 14:24:21.887 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:24:39.118 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:28:31.684 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:32.581 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:33.258 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:34.505 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:35.913 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:36.197 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:36.465 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:47.844 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:48.325 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:28:48.836 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:46:42.765 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:47:08.638 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:47:08.667 [main] BaseRunner - Test case started
+[INFO ] 2023-10-17 14:47:09.629 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 14:47:13.440 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 14:48:29.140 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 14:49:13.775 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 14:49:14.855 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 14:49:18.529 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 14:49:46.610 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 16:20:02.365 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 16:21:36.579 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 16:21:37.520 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 16:21:41.088 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 16:22:09.105 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 18:04:05.072 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 18:04:37.758 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 18:04:40.760 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 18:04:45.464 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 18:05:14.057 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 18:37:19.791 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 18:38:06.830 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 18:38:07.913 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 18:38:11.893 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 18:38:40.423 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 18:42:28.581 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 18:42:58.326 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 18:42:59.866 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 18:43:03.694 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 18:43:32.360 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 18:43:44.355 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-17 19:02:02.135 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:02:24.224 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 19:02:25.543 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 19:02:29.214 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 19:02:58.253 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 19:03:04.828 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-17 19:10:03.895 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:10:16.965 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 19:10:21.044 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 19:10:24.783 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 19:10:53.320 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 19:10:59.824 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-17 19:30:42.570 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:44.072 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:44.477 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:44.611 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:45.400 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:45.453 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:45.598 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:45.741 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:47.105 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:30:47.136 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-17 19:32:13.322 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-17 19:32:15.673 [main] BaseRunner - slt from city
+[INFO ] 2023-10-17 19:32:19.399 [main] BaseRunner - slt to city
+[INFO ] 2023-10-17 19:32:47.755 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-17 19:32:55.930 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-22 15:42:47.021 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:43:03.761 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:43:46.719 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:44:22.102 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:45:38.110 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:46:20.078 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:47:21.587 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:47:59.778 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:49:29.283 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:50:01.044 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:50:02.225 [main] BaseRunner - slt from city
+[INFO ] 2023-10-22 15:50:06.016 [main] BaseRunner - slt to city
+[INFO ] 2023-10-22 15:50:34.637 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-22 15:50:41.564 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-22 15:54:54.554 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:55:08.647 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:56:13.078 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:56:25.313 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 15:59:11.389 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 15:59:21.959 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:04:01.639 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 16:04:17.376 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:06:28.520 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 16:06:39.965 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:09:23.650 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 16:09:32.568 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:12:36.725 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 16:12:57.940 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:15:43.966 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-22 16:15:55.533 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-22 16:15:58.013 [main] BaseRunner - slt from city
+[INFO ] 2023-10-22 16:16:01.619 [main] BaseRunner - slt to city
+[INFO ] 2023-10-22 16:16:29.547 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-22 16:16:35.843 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-10-24 13:49:44.309 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-24 13:50:01.262 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-24 13:50:01.910 [main] BaseRunner - slt from city
+[INFO ] 2023-10-24 13:51:16.238 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-24 13:51:27.742 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-24 13:51:31.442 [main] BaseRunner - slt from city
+[INFO ] 2023-10-24 13:51:34.998 [main] BaseRunner - slt to city
+[INFO ] 2023-10-24 13:54:09.829 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-10-24 13:54:40.483 [main] BaseRunner - Setting up browser
+[INFO ] 2023-10-24 13:54:41.482 [main] BaseRunner - slt from city
+[INFO ] 2023-10-24 13:54:45.229 [main] BaseRunner - slt to city
+[INFO ] 2023-10-24 13:55:13.150 [main] BaseRunner - page loaded of trains
+[INFO ] 2023-10-24 13:55:19.475 [main] BaseRunner - Duration Late first success
+[INFO ] 2023-11-01 12:12:38.172 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-11-01 12:13:13.562 [main] BaseRunner - Setting up browser
+[INFO ] 2023-11-01 12:13:13.603 [main] BaseRunner - Test case started
+[INFO ] 2023-11-01 12:13:14.394 [main] BaseRunner - slt from city
+[INFO ] 2023-11-01 12:13:17.990 [main] BaseRunner - slt to city
+[INFO ] 2023-11-23 11:53:24.019 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-11-23 11:53:46.815 [main] BaseRunner - Setting up browser
+[INFO ] 2023-11-23 11:53:46.891 [main] BaseRunner - Success
+[INFO ] 2023-11-23 11:53:47.347 [main] BaseRunner - Intializing all the methods
+[INFO ] 2023-11-23 11:53:57.558 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:12:32.917 [main] BaseRunner - Intializing all the methods
+[INFO ] 2024-01-04 20:12:59.315 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:13:00.616 [main] BaseRunner - slt from city
+[INFO ] 2024-01-04 20:13:04.200 [main] BaseRunner - slt to city
+[INFO ] 2024-01-04 20:16:20.759 [main] BaseRunner - Intializing all the methods
+[INFO ] 2024-01-04 20:16:58.231 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:16:58.243 [main] BaseRunner - Success
+[INFO ] 2024-01-04 20:17:16.634 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:17:16.638 [main] BaseRunner - Success
+[INFO ] 2024-01-04 20:17:36.832 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:17:36.834 [main] BaseRunner - Test case started
+[INFO ] 2024-01-04 20:17:37.633 [main] BaseRunner - slt from city
+[INFO ] 2024-01-04 20:17:41.540 [main] BaseRunner - slt to city
+[INFO ] 2024-01-04 20:19:31.249 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:19:31.260 [main] BaseRunner - Success
+[INFO ] 2024-01-04 20:19:48.214 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-04 20:19:48.775 [main] BaseRunner - slt from city
+[INFO ] 2024-01-04 20:19:52.632 [main] BaseRunner - slt to city
+[INFO ] 2024-01-09 10:57:40.170 [main] BaseRunner - Intializing all the methods
+[INFO ] 2024-01-09 10:58:04.082 [main] BaseRunner - Setting up browser
+[INFO ] 2024-01-09 10:58:04.098 [main] BaseRunner - Success
+[INFO ] 2024-02-23 22:57:06.281 [main] BaseRunner - Intializing all the methods
+[INFO ] 2024-02-23 22:58:01.076 [main] BaseRunner - Setting up browser
+[INFO ] 2024-02-23 22:58:02.611 [main] BaseRunner - slt from city
+[INFO ] 2024-02-23 22:58:06.294 [main] BaseRunner - slt to city
